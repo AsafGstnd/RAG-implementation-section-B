@@ -114,4 +114,4 @@ CONFIG = {
 
 ## Video
 
-[VIDEO LINK HERE]
+[[VIDEO LINK HERE]](https://drive.google.com/file/d/1fv6sd2OBmt2VJk_q2hbf76A_ndGyk1Rz/view?usp=sharing)
